@@ -35,7 +35,7 @@ To access your variables in your code you just need to put `process.env['{Your K
 
 ## URL Argument Variables
 
-URL parameters can be use when a POST request is made to the endpoint of your function. 
+URL parameters can be used when a POST request is made to the endpoint of your function. 
 
 ### 1. Node JS
 
@@ -43,4 +43,4 @@ To access URL parameters in your NodeJS code you just need to put `event.query.[
 
 ### 2. Python
 
-To access URL parameters in your NodeJS code you just need to put `os.environ['{Your Parameter Name}']` as needed
+To access URL parameters in your Python code you just need to put `os.environ['{Your Parameter Name}']` as needed
